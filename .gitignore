@@ -6,3 +6,4 @@
 *.ipynd_checkpoints
 *checkpoint.ipynb
 *.csv
+*.pdf
